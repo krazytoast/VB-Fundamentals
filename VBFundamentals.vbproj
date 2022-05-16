@@ -69,6 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClassConstants.vb" />
     <Compile Include="MainModule.vb" />
     <Compile Include="ModuleConstants.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />

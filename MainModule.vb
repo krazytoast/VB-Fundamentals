@@ -2,14 +2,11 @@
     Dim Name As String = "Mountain Bike"
 
     Sub Main()
-        If True Then
-            Dim Name As String = "Tricycle"
-            Dim ListPrice As Decimal = 59.99
-        End If
+        Dim isActive As Boolean = DEFAULT_ACTIVE
+        Dim Name As String = "10 Speed Bike"
+        Dim ListPrice As Decimal
 
-        Console.WriteLine(Name)
-        ' The following does not compile
-        ' Console.WriteLine(ListPrice)
+        ListPrice = DEFAULT_LIST_PRICE
 
         Console.ReadKey()
     End Sub
