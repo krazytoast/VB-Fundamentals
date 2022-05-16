@@ -1,0 +1,12 @@
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\bin\Debug\VBFundamentals.exe.config
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\bin\Debug\VBFundamentals.exe
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\bin\Debug\VBFundamentals.pdb
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\bin\Debug\VBFundamentals.xml
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.vbproj.AssemblyReference.cache
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.vbproj.SuggestedBindingRedirects.cache
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.Resources.resources
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.vbproj.GenerateResource.cache
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.vbproj.CoreCompileInputs.cache
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.exe
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.xml
+C:\Users\krazy\source\repos\VB .NET\VB-Fundamentals\obj\Debug\VBFundamentals.pdb
