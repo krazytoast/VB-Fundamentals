@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{22288A57-B40C-43B2-813E-71C870A9EB2F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VBFundamentals.Module1</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>VBFundamentals</RootNamespace>
     <AssemblyName>VBFundamentals</AssemblyName>
     <FileAlignment>512</FileAlignment>
